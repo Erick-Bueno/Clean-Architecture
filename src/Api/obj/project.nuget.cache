@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "HjmdRw5c2/Gr637/OD9xNWyNe3dIemXgCPMoo8085ZQ20gwNii+P1hb4Y+oSYUg0nEUY3FxMKeV5gKVSR0Z5pA==",
+  "dgSpecHash": "dZSQxKWcKoT68O56u/YPGONEnY4rcU6Rhn8odbCsxAh6nJU971yCLOqMmLDbvnxOSru9T/zWD0XF0kadQnO/Hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\Documents\\GitHub\\CleanArch\\src\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\erick\\Documents\\GitHub\\Clean-Architecture\\src\\Api\\Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\erick\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\dotnetenv\\2.5.0\\dotnetenv.2.5.0.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.12\\microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.12\\microsoft.entityframeworkcore.analyzers.7.0.12.nupkg.sha512",
