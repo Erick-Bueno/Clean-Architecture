@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EympjKz5Hb4d36FekGzrAGTSGwMycUg8t3/yYzkRo+vIrQflC04tbgawqMz95QHkfAZY0rQRn3XgjVU6curKuw==",
+  "dgSpecHash": "uUERRPdvm9vUTuUJTafaK2ZXF1jCpGSeq9j5IHV3l3gq3ai/eHD2VpN3k7aL3OzS0SMCfoc30viz3bM3sbf+/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\Documents\\GitHub\\CleanArch\\src\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\erick\\Documents\\GitHub\\Clean-Architecture\\src\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

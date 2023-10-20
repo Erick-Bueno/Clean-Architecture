@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0qoUjb5teQJmMu8mw7vme81lkkKRlcoCZ3XUqgVT5jGEMIfEhHjJM2g+U6r+Y+Shh7+m+oWxxrFD5HLWETWHTQ==",
+  "dgSpecHash": "2WHsJFschOV6o2MrE/bAyQde/ppurau3JfvWDDiGJS+YVulLqErGDo+HcVTVpygxCxAyz0ppnOrUNcTbikmk8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\Documents\\GitHub\\CleanArch\\src\\Infra\\Infra.csproj",
+  "projectFilePath": "C:\\Users\\erick\\Documents\\GitHub\\Clean-Architecture\\src\\Infra\\Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erick\\.nuget\\packages\\dotnetenv\\2.5.0\\dotnetenv.2.5.0.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
