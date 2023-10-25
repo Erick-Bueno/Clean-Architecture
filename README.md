@@ -10,7 +10,7 @@ O projeto segue uma estrutura típica de Clean Architecture, dividida em várias
 
 - **Application**: Nesta camada, a lógica de negócios da aplicação é implementada. Ela atua como uma camada intermediária entre a API e o domínio.
 
-- **Domain**: Aqui, definimos as entidades de domínio, objetos de valor, regras de negócios e interfaces de serviços que são agnósticos à infraestrutura.
+- **Domain**: Aqui, definimos as entidades de domínio, objetos de valor, regras de negócios e interfaces de repositorios que são agnósticos à infraestrutura.
 
 - **Infrastructure**: Esta camada é onde implementamos a lógica de infraestrutura, como o acesso a banco de dados, serviços de terceiros, etc. O Entity Framework é comumente usado aqui.
 
@@ -26,7 +26,7 @@ O projeto segue uma estrutura típica de Clean Architecture, dividida em várias
 
 Para configurar o banco de dados, siga os passos abaixo:
 
-1. Abra o arquivo `appsettings.json` na camada de API e configure a string de conexão do banco de dados.
+1. crie um arquivo .env com a chave CONNECTION_STRING e adicione a string de conexão do banco que você estiver usando.
 2. No Visual Studio, abra o Console do Gerenciador de Pacotes (Tools > NuGet Package Manager > Package Manager Console).
 3. Execute o comando `Update-Database` para criar o banco de dados e aplicar as migrações.
 
@@ -52,6 +52,6 @@ Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICE
 
 ## Contato
 
-Se você tiver alguma dúvida ou precisar de assistência, sinta-se à vontade para entrar em contato conosco através do email [seu-email@example.com] ou abrindo uma issue neste repositório.
+Se você tiver alguma dúvida ou precisar de assistência, sinta-se à vontade para entrar em contato conosco através do email erickjb93@gmail.com ou abrindo uma issue neste repositório.
 
 Espero que este README seja útil para o seu projeto de Clean Architecture com C# e Entity Framework. Boa sorte com o desenvolvimento!
